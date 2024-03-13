@@ -1,9 +1,9 @@
 {
-  "name": "@phuongnguyenit/tea-xyz-quest",
+  "name": "@phuongnguyenit2112/tea-xyz-quest",
   "version": "2.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@phuongnguyenit",
+  "author": "@phuongnguyenit2112",
   "repository": "https://github.com/phuongnguyenit2112/tea-xyz-quest.git",
   "license": "ISC"
 }
